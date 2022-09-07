@@ -1,0 +1,29 @@
+.word_2 {
+    width: 280px;
+}
+
+#imgs img {
+    width: 330px;
+    height: 330px;
+}
+
+#imgs {
+    display: flex;
+    justify-content: space-between;
+}
+
+#text {
+    display: flex;
+    text-align: center;
+    font-family: Gilroy;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.055em;
+    text-align: center;
+}
+
+#banner img {
+    width: 100%;
+    margin-top: 5%;
+}

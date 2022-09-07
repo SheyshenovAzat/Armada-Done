@@ -1,0 +1,137 @@
+.word_position1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.word_2 {
+    width: 240px;
+}
+
+.all_foto {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#foto1 {
+    background: linear-gradient(rgba(0, 0, 0, 0.01), rgba(0, 0, 0, 0.001)), url(../img/imgForPortfol/women.png);
+    width: 500px;
+    height: 565px;
+    border-radius: 5px;
+}
+
+#foto2 {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/imgForPortfol/Rectangle\ 163.png);
+    width: 236px;
+    height: 275px;
+    border-radius: 5px;
+    margin-right: 15px;
+}
+
+#foto3 {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/imgForPortfol/flora.png);
+    width: 236px;
+    height: 275px;
+    border-radius: 5px;
+}
+
+#foto4 {
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../img/imgForPortfol/women2.png);
+    width: 490px;
+    height: 275px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+#foto5 {
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../img/imgForPortfol/men.png);
+    width: 500px;
+    height: 275px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+#foto6 {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/imgForPortfol/flora.png);
+    width: 242px;
+    height: 275px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+#foto7 {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/imgForPortfol/vaza.png);
+    width: 242px;
+    height: 275px;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+#foto8 {
+    position: absolute;
+    left: 645px;
+    top: 878px;
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../img/imgForPortfol/fruit.png);
+    width: 493px;
+    height: 565px;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.foto_position2 {
+    display: flex;
+    /* flex-direction: column; */
+    width: 500px;
+}
+
+.all_foto h2 {
+    display: flex;
+    font-size: 25px;
+    color: #FFFFFF;
+    padding-top: 230px;
+    padding-left: 20px;
+}
+
+.all_foto h3 {
+    display: flex;
+    font-size: 25px;
+    color: #FFFFFF;
+    padding-top: 520px;
+    padding-left: 20px;
+}
+
+#foto5 h2 {
+    display: flex;
+    font-size: 25px;
+    color: #FFFFFF;
+    padding-top: 230px;
+    padding-left: 20px;
+}
+
+.foto_position2 h2 {
+    display: flex;
+    font-size: 25px;
+    color: #FFFFFF;
+    padding-top: 160px;
+    padding-left: 20px;
+}
+
+#foto8 {
+    display: flex;
+    font-size: 25px;
+    color: #FFFFFF;
+    padding-top: 450px;
+    padding-left: 20px;
+}
+
+.footer {
+    margin-top: 5%;
+}
+
+/* 
+#foto_absolute {
+    position: absolute;
+} */

@@ -1,0 +1,219 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.all2 a {
+    list-style: none;
+    text-decoration: none;
+    color: #2A2828;
+}
+
+.box_shadow {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 25%);
+}
+
+.header_bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav1 {
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+}
+
+.div1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* width: 100%; */
+}
+
+.buttonflex01 {
+    display: flex;
+    justify-content: center;
+}
+
+.button01_1 {
+    background-color: #65256F;
+    width: 160px;
+    height: 50px;
+    color: #FFFFFF;
+    font-size: 22px;
+    border-radius: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5s;
+}
+
+
+.button01_1:hover {
+    background-color: darkblue;
+}
+
+.all2 {
+    height: 50px;
+    width: 650px;
+    /* background-color: #FBC70E; */
+    display: flex;
+    /* justify-content: space-around; */
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 20px;
+    padding-right: 30px;
+    margin-bottom: 5px;
+}
+
+.all2 a {
+    padding-right: 20px;
+    list-style: none;
+    text-decoration: none;
+    transition: 0.2s;
+}
+
+.border_top {
+    margin-top: 80px;
+    border-top: 2px solid #BEBEBE;
+}
+
+.word_1 {
+    font-size: 40px;
+    background-color: #fff;
+    width: 280px;
+    margin-top: -18px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+
+.word_position {
+    display: flex;
+    justify-content: center;
+}
+
+.all_photos1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+#photo1 {
+    background: linear-gradient(rgba(0, 0, 0, 0.01), rgba(0, 0, 0, 0.001)), url(../img/Rectangle\ 145.png);
+    width: 320px;
+    height: 345px;
+}
+
+#photo2 {
+    background: linear-gradient(rgba(0, 0, 0, 0.01), rgba(0, 0, 0, 0.001)), url(../img/Rectangle\ 147.png);
+    width: 320px;
+    height: 345px;
+}
+
+#photo3 {
+    background: linear-gradient(rgba(0, 0, 0, 0.01), rgba(0, 0, 0, 0.001)), url(../img/Rectangle\ 146.png);
+    width: 320px;
+    height: 705px;
+}
+
+#photo4 {
+    background: linear-gradient(rgba(0, 0, 0, 0.01), rgba(0, 0, 0, 0.001)), url(../img/Rectangle\ 151.png);
+    width: 670px;
+    height: 345px;
+}
+
+#photo5 {
+    background: linear-gradient(rgba(0, 0, 0, 0.01), rgba(0, 0, 0, 0.001)), url(../img/Rectangle\ 147.png);
+    width: 320px;
+    height: 344px;
+}
+
+.all_photos1 h2 {
+    /* background-color: #FBC70E; */
+    width: 320px;
+    height: 330px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    font-size: 35px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-bottom: 45px;
+}
+
+.all_photos1 p {
+    /* background-color: #FBC70E; */
+    width: 320px;
+    height: 700px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    font-size: 35px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-bottom: 55px;
+}
+
+.all_photos1 h3 {
+    /* background-color: #FBC70E; */
+    width: 600px;
+    height: 330px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    font-size: 35px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-bottom: 45px;
+    /* padding-left: 150px; */
+}
+
+.word_2 {
+    font-size: 40px;
+    background-color: #fff;
+    width: 400px;
+    margin-top: -20px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+
+.word_position {
+    display: flex;
+    justify-content: center;
+}
+
+.all_img img {
+    width: 50px;
+    height: 50px;
+}
+
+.all_img {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    /* align-items: center; */
+}
+
+#vector1 p {
+    text-align: center;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 20px;
+    text-align: center;
+    /* padding: 0 -20px; */
+    color: #000000;
+    margin-top: 20px;
+}
+
+#vector1 {
+    /* display: flex;
+    justify-content: space-between; */
+    width: 25%;
+    /* padding-bottom: 20px; */
+}
